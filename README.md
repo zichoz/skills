@@ -8,6 +8,7 @@ Claude skills for enterprise account executives, built for weekly use.
 | [exec-meeting-prep](exec-meeting-prep/SKILL.md) | One-page brief: objective, attendee incentives, strategic questions, use-case hypotheses, risks and the next step to ask for | Before important meetings |
 | [outreach-drafter](outreach-drafter/SKILL.md) | Short, trigger-based LinkedIn and email messages that offer something useful and ask for a specific meeting | Weekly outreach |
 | [monthly-career-review](monthly-career-review/SKILL.md) | Reads a running career log, scores five kinds of career capital, flags anti-patterns and promotion gaps, and gives three actions for next month. Can email the review | Once a month |
+| [weekly-growth-tasks](weekly-growth-tasks/SKILL.md) | Weekly network and personal-brand tasks: new contacts at rotating accounts, news triggers, LinkedIn engagement, a ready post draft, one internal connection and one learning item. Asks for your accounts on first run. Can email the list | Once a week |
 
 ## Setup
 
